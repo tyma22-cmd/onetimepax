@@ -1,7 +1,9 @@
 package org.dador;
 
 /**
- *
+ * NGOM Maty 
+ * NKAM TCHUIENTE Wilfried Arnauld
+ * 
  */
 public class MultiTimePad {
 
